@@ -1,0 +1,2 @@
+exports.TOKEN = "NjQ4MzM2NTUxMzM1NDI4MTI2.XqyXBA.xJqbzZ2xlE4Mwjs7X0C3KfFaF98";
+exports.PREFIX = "A+";
